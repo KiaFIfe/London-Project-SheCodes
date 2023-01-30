@@ -162,10 +162,22 @@ header {
   opacity: 70%;
   color: #fff;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  font-size: 14px;
+  grid-template-columns: 1fr 1fr;
 }
 .info {
-  margin-top: 70px;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 15px;
+}
+.links-container {
+  text-align: center;
+}
+.contact-links {
+  color: #fff;
+  margin: 5px;
+  font-size: 20px;
+  margin-top: 10px;
 }
 .photo-container {
   max-width: fit-content;
