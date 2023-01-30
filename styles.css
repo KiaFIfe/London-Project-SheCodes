@@ -20,6 +20,17 @@ header {
   padding: 60px 0;
   height: 400px;
 }
+.table-info {
+  display: block;
+}
+.table-data {
+  margin: 20px;
+}
+.table-heading {
+  text-align: center;
+  font-size: 30px;
+  color: var(--headings-color);
+}
 .box-heading,
 .photo-heading {
   text-align: center;
